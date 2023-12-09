@@ -1,0 +1,8 @@
+build:
+  docker:
+    gatewayserver: C:\Users\alanj\Documents\MS\CSI_5347_Distributed_Systems\WEEK11\librarymanagementsystem\gatewayserver
+    eureka-server: C:\Users\alanj\Documents\MS\CSI_5347_Distributed_Systems\WEEK11\librarymanagementsystem\eureka-server
+    config-service: C:\Users\alanj\Documents\MS\CSI_5347_Distributed_Systems\WEEK11\librarymanagementsystem\config-service
+    book-management-service: C:\Users\alanj\Documents\MS\CSI_5347_Distributed_Systems\WEEK11\librarymanagementsystem\BookManagementService
+    loanmanagement: C:\Users\alanj\Documents\MS\CSI_5347_Distributed_Systems\WEEK11\librarymanagementsystem\LoanManagementService
+    reader-management-service: C:\Users\alanj\Documents\MS\CSI_5347_Distributed_Systems\WEEK11\librarymanagementsystem\ReaderManagementService
